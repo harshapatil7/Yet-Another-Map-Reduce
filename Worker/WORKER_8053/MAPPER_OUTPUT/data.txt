@@ -1,0 +1,16 @@
+Chicago,431.73
+Cincinnati,288.32
+Rochester,342.62
+Pittsburgh,498.29
+Rochester,485.71
+Glendale,14.09
+Cincinnati,1.41
+Irvine,15.19
+Boston,397.21
+Scottsdale,214.32
+Atlanta,189.22
+Cincinnati,443.78
+Lubbock,27.68
+Cincinnati,129.6
+Santa Ana,282.13
+Aurora,82.38

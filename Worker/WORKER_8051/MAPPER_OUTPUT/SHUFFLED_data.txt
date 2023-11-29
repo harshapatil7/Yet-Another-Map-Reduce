@@ -1,0 +1,25 @@
+Dallas,145.63
+Tampa,353.23
+Buffalo,337.35
+Louisville,213.64
+Los,164.5
+Buffalo,386.56
+Gilbert,11.31
+New York,221.35
+Riverside,349.41
+Chicago,364.53
+Rochester,460.39
+Chicago,431.73
+Cincinnati,288.32
+Rochester,342.62
+Rochester,485.71
+Cincinnati,1.41
+Irvine,15.19
+Scottsdale,214.32
+Cincinnati,443.78
+Cincinnati,129.6
+Dallas,145.63
+Tampa,353.23
+Buffalo,337.35
+Louisville,213.64
+Los,164.5

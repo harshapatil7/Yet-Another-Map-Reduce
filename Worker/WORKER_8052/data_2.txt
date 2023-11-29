@@ -1,0 +1,17 @@
+2012-03-16	11:18	Mesa	Toys	13.79	Visa
+2012-06-25	10:05	Wichita	Consumer Electronics	158.25	Amex
+2012-04-05	17:03	Indianapolis	Pet Supplies	152.77	Amex
+2012-11-08	15:19	San Bernardino	Video Games	332.43	Discover
+2012-08-08	10:09	Indianapolis	Health and Beauty	464.36	Amex
+2012-03-02	09:25	Stockton	Men's Clothing	180.61	Discover
+2012-02-27	16:12	Austin	Health and Beauty	48.09	Visa
+2012-12-29	16:56	Buffalo	Garden	386.56	Amex
+2012-03-20	09:02	Santa Ana	Books	2.75	Amex
+2012-10-30	11:52	Gilbert	DVDs	11.31	Amex
+2012-02-03	11:02	New York	DVDs	221.35	Visa
+2012-07-26	16:16	Corpus Christi	Health and Beauty	157.91	Amex
+2012-07-20	11:46	Riverside	Video Games	349.41	Visa
+2012-10-04	12:25	Chicago	Children's Clothing	364.53	MasterCard
+2012-02-04	11:53	Fremont	Video Games	404.17	Cash
+2012-05-31	14:43	Rochester	Video Games	460.39	Amex
+2012-05-25	16:11	Raleigh	Computers	61.22	MasterCard

@@ -1,0 +1,15 @@
+Aurora,82.38
+Birmingham,1.64
+Fremont,404.17
+Las Vegas,208.97
+Lubbock,27.68
+Memphis,354.44
+Mesa,13.79
+Miami,154.64
+Newark,410.37
+Raleigh,61.22
+San Bernardino,332.43
+Santa Ana,282.13
+Stockton,180.61
+Washington,481.31
+Wichita,158.25

@@ -1,0 +1,17 @@
+Indianapolis,152.77
+Indianapolis,464.36
+Austin,48.09
+Corpus Christi,157.91
+Indianapolis,152.77
+Indianapolis,464.36
+Austin,48.09
+Corpus Christi,157.91
+Tucson,489.93
+San Francisco,388.3
+San Jose,492.8
+Jersey City,369.07
+Plano,4.65
+Pittsburgh,498.29
+Glendale,14.09
+Boston,397.21
+Atlanta,189.22

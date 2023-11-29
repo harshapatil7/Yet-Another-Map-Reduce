@@ -1,0 +1,17 @@
+Mesa,13.79
+Wichita,158.25
+Indianapolis,152.77
+San Bernardino,332.43
+Indianapolis,464.36
+Stockton,180.61
+Austin,48.09
+Buffalo,386.56
+Santa Ana,2.75
+Gilbert,11.31
+New York,221.35
+Corpus Christi,157.91
+Riverside,349.41
+Chicago,364.53
+Fremont,404.17
+Rochester,460.39
+Raleigh,61.22

@@ -1,0 +1,17 @@
+2012-07-16	15:43	Las Vegas	Men's Clothing	208.97	Visa
+2012-06-11	16:17	Miami	Crafts	84.11	Amex
+2012-10-17	15:30	Tucson	Crafts	489.93	Cash
+2012-10-25	15:01	San Francisco	Men's Clothing	388.3	Visa
+2012-07-13	09:01	Dallas	Consumer Electronics	145.63	Cash
+2012-11-06	13:02	Tampa	Garden	353.23	MasterCard
+2012-09-07	12:58	Washington	Women's Clothing	481.31	MasterCard
+2012-08-05	16:34	San Jose	DVDs	492.8	Discover
+2012-04-22	13:12	Newark	Consumer Electronics	410.37	Visa
+2012-10-19	11:35	Memphis	Garden	354.44	Discover
+2012-10-10	13:17	Jersey City	Books	369.07	Amex
+2012-04-27	11:54	Plano	Women's Clothing	4.65	Cash
+2012-08-28	14:56	Buffalo	Video Games	337.35	Discover
+2012-09-17	13:09	Louisville	Music	213.64	Discover
+2012-02-24	12:05	Miami	Women's Clothing	154.64	Cash
+2012-01-02	10:04	Los	Angeles Pet Supplies	164.5	Discover
+2012-11-15	15:46	Birmingham	Men's Clothing	1.64	Cash
